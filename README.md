@@ -1,27 +1,30 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/salve)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/msalve)
 
-🌱 I’m currently learning SOLIDJS
+<img align="right" alt="JPG" src="https://github.com/hpfs74/hpfs74/blob/master/falken.jpg?raw=true" width="408" height="318" />
 
-<!--
-**hpfs74/hpfs74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some fact about you are ![](https://visitor-badge.glitch.me/badge?page_id=hpfs74.hpfs74)
 
-Here are some ideas to get you started:
+Some fact about me:
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Event Sourcing System on AWS
+- 🌱 I’m currently learning SOLIDJS
+- 💬 Ask me about anything, I'm glad to help
+- 📫 How to reach me: @hpfs74
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpfs74&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpfs74&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpfs74&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
