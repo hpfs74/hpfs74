@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/salve)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/msalve)
 
-<img align="right" alt="JPG" src="https://github.com/hpfs74/hpfs74/blob/main/falken.jpg?raw=true" width="408" height="318" />
+<img align="right" alt="JPG" src="https://github.com/hpfs74/hpfs74/blob/main/falken.jpeg?raw=true" width="408" height="318" />
 
 Some fact about you are ![](https://visitor-badge.glitch.me/badge?page_id=hpfs74.hpfs74)
 
